@@ -1,0 +1,80 @@
+
+body{
+    background-image:url("..//images/noen2.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
+}
+
+header{
+    color:red;
+    font-family: 'VT323', monospace;
+    font-size: 75px;
+    text-align: center;
+    font-style:bold;
+}
+
+#win{
+    color: rgb(3, 217, 224);
+    font-size: 25px;
+    font-family: 'VT323', monospace;
+}
+
+#lost{
+    color:red;
+    font-size: 25px;
+    font-family: 'VT323', monospace;
+    
+}
+
+p{
+    color:red;
+    font-size: 25px;
+    font-family: 'VT323', monospace;
+}
+
+#previous{
+    font-size: 25px;
+    color:red;
+    padding-top: 5%;
+}
+
+.crystals{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    
+   
+    
+
+}
+
+.crystal:hover{
+    box-shadow: 5px 5px 5px  rgb(158, 14, 146);
+    transform: translate(5px,80px);
+    cursor: pointer;
+    transition: box-shadow  2s, transform 2s;
+}
+
+
+.crystal{
+    border:none;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px  rgb(158, 14, 146);
+    transition: box-shadow 2s, transform 2s;
+    
+}
+img{
+    width: 50px;
+ }
+
+
+ h2{
+    color:red;
+    font-size: 20px;
+    font-family: 'VT323', monospace;
+    text-align: center;
+    padding-top: 0%;
+
+ }
