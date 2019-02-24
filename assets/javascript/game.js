@@ -19,7 +19,7 @@ var resetAndStart = function() {
 //               //                                         //                                                            //
 
 
-random_result = Math.floor(Math.random() * 19) + 75; //generates a random number using the built in function called Math.floor(Math.random()
+random_result = Math.floor(Math.random() * 19) + 101; //generates a random number using the built in function called Math.floor(Math.random()
 //generates a random number. you have to match the crystals to this number with out going over//
 
 
