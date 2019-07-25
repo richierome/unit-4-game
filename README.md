@@ -1,3 +1,3 @@
-crystal collector.
-random result genetrates a random number. use the magic crystal
-to match the score. If you go over you lose, if you match it you win.
+Crystal Collector.
+"Random Result" generates a random number. Each crystal has a set value. Use the magic crystal
+to match random result score. If you go over you lose, if you match it you win.
